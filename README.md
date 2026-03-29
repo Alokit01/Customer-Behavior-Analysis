@@ -1,2 +1,46 @@
-# Customer-Behavior-Analysis
-End-to-end Customer Behavior Analysis using SQL, Python, and Power BI. Includes data cleaning, feature engineering, SQL-based insights, and interactive dashboard.
+# 📊 Customer Behavior Analysis
+
+## 🚀 Overview
+
+End-to-end analysis of customer purchasing behavior using **Python, SQL, and Power BI**.
+
+---
+
+## 🛠️ Tech Stack
+
+* Python (Pandas)
+* SQL (PostgreSQL)
+* Power BI
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard/dashboard.png)
+
+---
+
+## 📊 Key Insights
+
+* Revenue by gender
+* Discount vs spending behavior
+* Customer segmentation (New, Returning, Loyal)
+* Subscription vs non-subscription analysis
+* Revenue by age group
+
+---
+
+## 📂 Structure
+
+```
+data/          
+notebooks/     
+sql/           
+dashboard/     
+```
+
+---
+
+## 👨‍💻 Author
+
+Alokit Raj Sharma
