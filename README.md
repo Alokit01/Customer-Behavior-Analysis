@@ -14,9 +14,9 @@ End-to-end analysis of customer purchasing behavior using **Python, SQL, and Pow
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
